@@ -46,5 +46,5 @@ cd /usr/share/tomcat/lib/
 sudo -u vagrant wget -q https://github.com/Unicon/shibboleth-tomcat-dta-ssl/releases/download/v1.1/tomcat7-1.1.jar
 
 cd usr/share/tomcat/conf/Catalina/localhost/
-sudo -u vagrant wget -q https://raw.###################.IDP.XML
+sudo -u vagrant wget -q https://raw.githubusercontent.com/danielalmaz/shibboleth/master/files/idp.xml
 
